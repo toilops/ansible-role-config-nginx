@@ -1,0 +1,20 @@
+galaxy_info:
+  author: BondAnthony
+  name: config-nginx
+  description: Role to simply install and configure nginx
+  company: toilops.com
+  license: license (MIT)
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+      - 6
+      - 7
+
+  galaxy_tags:
+    - cloud
+    - digitalocean
+    - sysadmin
+    - nginx
+    - proxy
+dependencies: []
